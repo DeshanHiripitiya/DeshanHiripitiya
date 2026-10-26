@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/nipuna-deshan-113a10285/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -27,31 +24,7 @@ I'm a Software Engineer with an interest in building reliable, scalable applicat
 - 🌱 **Currently Exploring:** Cloud technologies, CI/CD, and production-ready AI applications.
 - 🎯 **Goal:** Build software that solves real-world problems through strong engineering and practical AI.
 
-### 🧰 Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,java" alt="C#, TypeScript, JavaScript, Python, Java" />
-</p>
-
-**Backend & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react" alt=".NET, Node.js, Express, React" />
-</p>
-
-**AI & Machine Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
-</p>
-
-**Databases & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,linux" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, GitHub, Linux" />
-</p>
 
 ### 🚀 Areas of Focus
 
@@ -74,8 +47,8 @@ Explore my repositories to see projects across software engineering, backend sys
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeshanHiripitiya&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeshanHiripitiya&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages" />
 </p>
 
 ---
